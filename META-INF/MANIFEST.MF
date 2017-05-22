@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: First_RCP_Application
+Bundle-SymbolicName: First_RCP_Application;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: first.rcp.application.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
